@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
+  <img alt="dev.finances" src="https://github.com/rocketseat-education/maratona-discover-01/blob/main/.github/devfinances.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,12 +29,12 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover).
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/rocketseat-education/maratona-discover-01/blob/main/LICENSE.md) para mais detalhes.
 
 ---
 
-Feito na Maratona Discover "01" organizada pela Rocketseat e ministrada pelo Mayk Brito :wave: [Participe da comunidade Rocketseat!](https://discordapp.com/invite/gCRAFhc)
+Feito através da "Maratona Discover — 1ª edição", organizada pela Rocketseat [(@rocketseat-education)](https://github.com/rocketseat-education) e ministrada pelo instrutor Mayk Brito [(@maykbrito)](https://github.com/maykbrito) :wave: [Participe da comunidade Rocketseat!](https://discordapp.com/invite/gCRAFhc)
